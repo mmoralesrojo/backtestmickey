@@ -18,7 +18,7 @@ module.exports = {
 					password: '1234'
 				}
 			}
-		}
+		},
 		kidsbackyard: {
 			db: {
 				client: 'mongo',
